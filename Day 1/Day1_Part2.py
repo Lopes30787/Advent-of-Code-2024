@@ -1,4 +1,4 @@
-file = open('C:\\Users\\afons\\Ambiente de Trabalho\\Advent of Code\\Day 1\\Day1.txt', 'r')
+file = open('C:\\Users\\afons\\Ambiente de Trabalho\\Advent of Code 2024\\Day 1\\Day1.txt', 'r')
 
 first_column = []
 second_column = []

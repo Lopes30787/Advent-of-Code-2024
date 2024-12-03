@@ -1,4 +1,4 @@
-file = open('C:\\Users\\afons\\Ambiente de Trabalho\\Advent of Code\\Day 2\\Day2.txt', 'r')
+file = open('C:\\Users\\afons\\Ambiente de Trabalho\\Advent of Code 2024\\Day 2\\Day2.txt', 'r')
 
 safe = 0
 increasing = True
