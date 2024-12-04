@@ -1,4 +1,4 @@
- file = open('C:\\Users\\afons\\Ambiente de Trabalho\\Advent of Code 2024\\Day 3\\Day3.txt', 'r')
+file = open('C:\\Users\\afons\\Ambiente de Trabalho\\Advent of Code 2024\\Day 3\\Day3.txt', 'r')
 
 def read_numbers(first):
     number = ""
