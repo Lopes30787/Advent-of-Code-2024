@@ -68,7 +68,6 @@ def check_trail(i, j, current):
 for i in range(len(trail)):
     for j in range(len(trail[0])):
 
-        if trail[i][j] == 0:
-            check_trail(i,j,0)
+        check_trail(i,j,0)
 
 print(result)
